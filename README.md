@@ -1,1 +1,0 @@
-just the kernel name
